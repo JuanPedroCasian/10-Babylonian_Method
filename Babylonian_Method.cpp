@@ -42,13 +42,6 @@ void BabylonianMethod (int StartingNumber) {
   cout << "The BabylonianMethod result is:  " << Average << endl;
   cout << "The Real result is:  " << a << endl;
 
-
-
-
-
-
-
-
 }
 
 int main () {
